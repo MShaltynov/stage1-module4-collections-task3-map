@@ -20,4 +20,5 @@ public class WordRepetitionMapCreator {
         }
         return results;
     }
+
 }

@@ -11,6 +11,7 @@ public class KeyValueSwapper {
                 result.put(e.getValue(), e.getKey());
             }
         }
+
         return result;
     }
 }
